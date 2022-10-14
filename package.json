@@ -1,0 +1,14 @@
+{
+  "name": "pug-resume-generator",
+  "version": "1.0.0",
+  "description": "Resume generator W.I.P",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "pug": "^3.0.2"
+  }
+}
